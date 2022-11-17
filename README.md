@@ -1,3 +1,3 @@
 # DataXtractor
 
-DataXtractor DO NOT collects data from you or your data in any way.
+DataXtractor DO NOT collects data from you or your databases in any way.
